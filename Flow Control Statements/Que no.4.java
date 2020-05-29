@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class SignOfTheInteger {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		char a = sc.next().charAt(0);
 		char b = sc.next().charAt(0);
@@ -24,3 +23,9 @@ public class SignOfTheInteger {
 	}
 
 }
+
+OUTPUT:
+
+z
+f
+f,z
